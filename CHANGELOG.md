@@ -13,7 +13,7 @@
   largest cities) and `CCTV_VEGVESEN_VIDEO=0` keeps stills only. Attributed
   under NLOD 2.0.
 
-## [0.2.1] — 2026-10-02 — God's Eye View through Your Agent (with security fixes and other features)
+## [0.2.1] — 2026-10-02 — Horus through Your Agent (with security fixes and other features)
 
 - Ship each bundled data pack once. The region, marine, admin-boundary,
   county, military-name and neighborhood packs were emitted twice by the
@@ -87,9 +87,9 @@
 - Move the aligned Cyber side-panel rails upward on desktop so the left stack
   clears the lower coordinate card; keep Cockpit's independent visor layout.
 
-## [0.2.0] — 2026-10-02 — God's Eye View through Your Agent
+## [0.2.0] — 2026-10-02 — Horus through Your Agent
 
-- Show God's Eye View inside AI conversations. Answers that can be shown
+- Show Horus inside AI conversations. Answers that can be shown
   include a view (camera, layers, style, map, marks, something to follow),
   and `show_in_gods_eye_view` displays it as the live globe in clients that
   support MCP Apps, such as Claude Desktop and the Codex and ChatGPT desktop
